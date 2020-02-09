@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 # File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
 
@@ -31,6 +32,11 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+=======
+
+# Created by https://www.gitignore.io/api/node
+# Edit at https://www.gitignore.io/?templates=node
+>>>>>>> a5290e2f06d86864d0a04c95fe2f2b3dfb1bf343
 
 ### Node ###
 # Logs
@@ -138,6 +144,7 @@ dist/
 tmp/
 temp/
 
+<<<<<<< HEAD
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -152,3 +159,6 @@ temp/
 # End of https://www.gitignore.io/api/visualstudiocode,macos,node
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
+=======
+# End of https://www.gitignore.io/api/node
+>>>>>>> a5290e2f06d86864d0a04c95fe2f2b3dfb1bf343
