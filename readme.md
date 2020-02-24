@@ -12,12 +12,12 @@ GoBarber é o projeto desenvolvido durante o BootCamp GoStack da Rocketseat. Uma
 - [**NodeJS**](https://nodejs.org/en/)
 - [**Docker**](https://www.docker.com/)
 - [**Postgres**](https://www.postgresql.org/)
-- [**MongoDB**](https://www.mongodb.com/) —
-- [**Redis**](https://redis.io/) —
+- [**MongoDB**](https://www.mongodb.com/) 
+- [**Redis**](https://redis.io/) 
 ---
 
 
-## **Blibiotecass**
+## **Bibliotecas**
 - [**Express**](https://expressjs.com/pt-br/)
 - [**Yup**](https://github.com/jquense/yup)
 - [**Jsonwebtoken**](https://www.npmjs.com/package/jsonwebtoken)
